@@ -1,0 +1,2 @@
+# 236102105_DA623
+blog_style_project_explanation
